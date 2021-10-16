@@ -4,17 +4,17 @@ fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: veuda31@gmail.com
+  github: 
+  linkedin: david-boulard
   phone: 
   gitlab: 
   twitter: 
 
-languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+Langues:
+  - idiom: Anglais (CECRL B1)
+  - idiom: 
+  - idiom: 
 
 education:
   - degree: MSc in Informatics
