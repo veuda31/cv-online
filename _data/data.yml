@@ -1,4 +1,4 @@
-name: veuda Tebo
+name: david boulard
 support_dark_mode: true
 fork: false
 
@@ -17,61 +17,65 @@ languages:
   - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Brevet de Technicien Supérieur Informatique de Gestion : Administrateur de Réseaux d’entreprise
+    time: 2006-2008
+    university: Lycée Marie Curie à Tarbes (65)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Baccalauréat professionnel Micro-informatique et Réseau : Installation et Maintenance
+    time: 2004-2006
+    university: Lycée Antoine Bourdelle à Montauban (82)
+
+  - degree: Brevet d’Étude Professionnel Métiers de l’Électronique
+    time: 2002-2004
+    university: Lycée professionnel Pierre Mendès France à Vic-en-Bigorre (65)
 
 skills:
-  - category: Backend
+  - category: Windows
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Administration serveur et client
+      - Powershell
+      - Hyper-V
+      - IIS
+      - Supervision
+  - category: Linux
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Nagios
+      - Apache
+      - MySQL
+  - category: Logiciel
     skill:
-      - Docker
-      - Kubernetes 
+      - Teams
+      - Powershell Studio
+      - Wireshark
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Autonome, rigoureux et curieux, possédant une expérience large et approfondie dans l’administration et l’analyse des 
+  systèmes Windows ainsi que dans l’automatisation des tâches (scripting).
+  Force de proposition sur les évolutions technologiques et processus utilisés. Très bonnes compétences en rédaction 
+  documentaire et technique. Calme et patience sont des atouts pour la gestion des situations d’urgence.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Ingénieur support systèmes et applications de niveau 
+    time: Depuis 2015
+    company: BYG Informatique
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Support technique de niveau 2 – installation, configuration et maintenance logicielle de 
+      supervision Nagios – validation logicielle – rédaction documentaire et technique –
+      formation et transfert de compétences internes.
+      Formations externes de mise à niveau des nouveaux SE Windows
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      RDP, IPV4, ARP, HTTP, HTTPS, DNS, DHCP, Powershell
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Technicien d’installation et de maintenance de niveau 1
+    time: 2008 à 2015
+    company: BYG Informatique
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Déploiement de système serveur et client Windows - Déploiement d'applications - 
+      Formation utilisateur - Service client
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Windows, RDP, IIS, Powershell
 
 publications:
   - title: Random title of paper. An interesting one.
@@ -99,10 +103,8 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 
+    role: 
+    company: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      
