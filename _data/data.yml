@@ -1,81 +1,77 @@
-name: david boulard
+name: veuda Tebo
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
-  email: veuda31@gmail.com
-  github: 
-  linkedin: david-boulard
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Anglais (CECRL B1)
-  - idiom: 
-  - idiom: 
+  - idiom: English
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: Brevet de Technicien Supérieur Informatique de Gestion Administrateur de Réseaux d’entreprise
-    time: 2006-2008
-    university: Lycée Marie Curie à Tarbes (65)
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: Baccalauréat professionnel Micro-informatique et Réseau Installation et Maintenance
-    time: 2004-2006
-    university: Lycée Antoine Bourdelle à Montauban (82)
-
-  - degree: Brevet d’Étude Professionnel Métiers de l’Électronique
-    time: 2002-2004
-    university: Lycée professionnel Pierre Mendès France à Vic-en-Bigorre (65)
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
-  - category: Windows
+  - category: Backend
     skill: 
-      - Administration serveur et client
-      - Powershell
-      - Hyper-V
-      - IIS
-      - Supervision
-  - category: Linux
+      - Go
+      - Rust
+  - category: Frontend
     skill:
-      - Nagios
-      - Apache
-      - MySQL
-  - category: Logiciel
+      - React
+      - Typescript
+  - category: DevOps
     skill:
-      - Teams
-      - Powershell Studio
-      - Wireshark
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-  Autonome, rigoureux et curieux, possédant une expérience large et approfondie dans l’administration et l’analyse des 
-  systèmes Windows ainsi que dans l’automatisation des tâches (scripting).
-  Force de proposition sur les évolutions technologiques et processus utilisés. Très bonnes compétences en rédaction 
-  documentaire et technique. Calme et patience sont des atouts pour la gestion des situations d’urgence.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: Ingénieur support systèmes et applications de niveau 
-    time: Depuis 2015
-    company: BYG Informatique
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-      Support technique de niveau 2 – installation, configuration et maintenance logicielle de 
-      supervision Nagios – validation logicielle – rédaction documentaire et technique –
-      formation et transfert de compétences internes.
-      Formations externes de mise à niveau des nouveaux SE Windows
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      RDP, IPV4, ARP, HTTP, HTTPS, DNS, DHCP, Powershell
+      Go, Angular, Typescript, C++
   
-  - role: Technicien d’installation et de maintenance de niveau 1
-    time: 2008 à 2015
-    company: BYG Informatique
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
     details: |
-      Déploiement de système serveur et client Windows - Déploiement d'applications - 
-      Formation utilisateur - Service client
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      Windows, RDP, IIS, Powershell
+      Python, Tensorflow, Keras, Matlab
 
 publications:
   - title: Random title of paper. An interesting one.
@@ -103,8 +99,10 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 
-    role: 
-    company: 
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
     details: |
-      
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
