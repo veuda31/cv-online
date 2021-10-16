@@ -1,6 +1,6 @@
 name: veuda Tebo
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
